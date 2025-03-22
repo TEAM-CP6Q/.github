@@ -8,6 +8,9 @@
 
 ## 프로젝트 링크
 ### 🔗 [RELOAD_F5 Link](https://github.com/TEAM-CP6Q/Reload_F5)
+### 🔗 [F5_PICKUP_APP Link](https://github.com/TEAM-CP6Q/F5_Pickup_APP)
+### 🔗 [F5_DRIVER_APP Link](https://github.com/TEAM-CP6Q/F5_driver_app)
+
 ### 📹 데모 영상  
 [![Reload Project Video](https://img.youtube.com/vi/i6RHHxJPSCE/0.jpg)](https://www.youtube.com/watch?v=i6RHHxJPSCE)
 
