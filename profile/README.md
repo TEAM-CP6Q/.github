@@ -7,12 +7,17 @@
 | 분류 | 백엔드 | 백엔드 | 프론트엔드 | 프론트엔드 | 프론트엔드 | 
 
 ## 프로젝트 링크
-### 🔗 [RELOAD_F5 Link](https://github.com/TEAM-CP6Q/Reload_F5)
-### 🔗 [F5_PICKUP_APP Link](https://github.com/TEAM-CP6Q/F5_Pickup_APP)
-### 🔗 [F5_DRIVER_APP Link](https://github.com/TEAM-CP6Q/F5_driver_app)
+### 🔗 [Refresh_Web](https://github.com/TEAM-CP6Q/Reload_F5)
+>  환경 보호와 자원 재활용을 중심으로 설계된 종합 Web기반 플랫폼
+### 🔗 [Refresh_APP](https://github.com/TEAM-CP6Q/F5_yolo.git)
+>  YOLO 모델을 적용한 폐기물 인식 하이브리드 앱
+### 🔗 [Refresh_DRIVER_APP](https://github.com/TEAM-CP6Q/F5_driver_app)
+> 수거 기사 전용 폐기물 수거 지원 앱
 
-### 📹 데모 영상  
+### 📹 1차 완성 영상  
 [![Reload Project Video](https://img.youtube.com/vi/i6RHHxJPSCE/0.jpg)](https://www.youtube.com/watch?v=i6RHHxJPSCE)
+> 영상 제작자: 서동섭
+
 
 
 ##  👨‍💻 공모전
